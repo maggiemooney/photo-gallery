@@ -1,0 +1,39 @@
+* {
+  background-color: #D2D5CF;
+}
+
+.DIV1 {
+  text-align: center;
+  border: solid 10px;
+  border-color:#AB89B0;
+  color: #8BCCB9;
+  font-family: 'Baloo Da', cursive;
+  font-size: 20px;
+}
+
+.DIV2 {
+  text-align: center;
+  display: inline-block;
+  font-family: 'Amatic SC', cursive;
+  color: #8BCCB9;
+  font-size: 30px;
+}
+.DIV3 {
+  text-align:center;
+}
+
+
+section {
+  display: flex;
+  justify-content: space-around;
+}
+
+article {
+  border: ridge 5px;
+  border-color: #8BCCB9;
+  width: 18%;
+  height: 200px;
+  text-align:center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
